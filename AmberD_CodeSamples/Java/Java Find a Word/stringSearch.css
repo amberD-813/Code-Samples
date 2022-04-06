@@ -1,0 +1,32 @@
+/*
+CSS for string search app
+*/
+/* 
+    Created on : Feb 25, 2020, 8:41:22 PM
+    Author     : Home
+*/
+
+.root {
+    
+    -fx-background:   #556B2F;
+    
+}  
+.label {
+    
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;    
+}
+#label-header{
+    -fx-font-size: 25px;
+
+}
+#txtEntry{
+  -fx-pref-width: 200;
+  -fx-pref-height: 100;
+  -fx-padding: 5 5 5 5;
+  -fx-wrap:true;
+}
+#txtInstruct{
+ -fx-font-size: 20px;
+  -fx-wrap:true;
+}

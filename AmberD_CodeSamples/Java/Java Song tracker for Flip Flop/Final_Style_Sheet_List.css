@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 2, 2020, 11:01:51 AM
+    Author     : Home
+*/
+
+.root {
+    
+    -fx-background:    tomato ;
+    -fx-text-fill: #000000;
+}   
+.label {
+    -fx-font-family: Merienda;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold; 
+    -fx-font-underline: true;
+    -fx-text-fill: tomato;
+}
+.button{
+    -fx-font-weight: bold;
+}
+.table-view:focused{
+    -fx-font-weight: bold;
+}
+.tree-view:focused{
+    -fx-font-weight: bold;
+}

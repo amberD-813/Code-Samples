@@ -1,0 +1,33 @@
+/*
+CSS file for color Adjuster.
+Amber D. 2020
+*/
+/* 
+    Created on : Feb 8, 2020, 1:19:34 PM
+    Author     : Home
+*/
+
+
+.root {
+    -fx-font-size: 14px;
+    -fx-font-family: sans-serif;
+    -fx-background-color: lightblue;
+}
+
+.header-section {
+    -fx-padding: 10px;
+    -fx-font-size: 20px;
+    -fx-background-color: tomato;
+}
+    
+.label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold; 
+    -fx-font-underline: true;
+}
+
+.button {
+    
+    -fx-font-weight: bold;
+}
+
